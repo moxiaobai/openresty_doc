@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{},titles:["Welcome to openresty documentation!"],titleterms:{"and ":0,"documentation!":0,"indices ":0,"openresty ":0,"to ":0,"welcome ":0,tabl:0}})
